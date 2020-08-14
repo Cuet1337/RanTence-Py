@@ -51,9 +51,10 @@ randoma = random.choice((a))
 #2 = aftercompound
 #3 = nocompound
 
-if randoma == "1":
-  print(beforecompound)
-elif randoma == "2":
-  print(aftercompound)
-elif randoma == "3":
-  print(nocompound)
+def rt():
+  if randoma == "1":
+    print(beforecompound)
+  elif randoma == "2":
+    print(aftercompound)
+  elif randoma == "3":
+    print(nocompound)
