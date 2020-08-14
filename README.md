@@ -6,7 +6,12 @@ This NPM package that is used for `NODEJS`, generates random sentences. Check ou
 
 # INSTALL
 ```
-$ npm install randtence
+$ pip install rantence
+```
+
+# FOR LINUX
+```
+$ pip3 install rantence
 ```
 
 # USAGE
