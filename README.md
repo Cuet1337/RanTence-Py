@@ -2,7 +2,7 @@
 ---
 
 ### **What does it do?**
-This NPM package that is used for `NODEJS`, generates random sentences. Check out the code description below on how to use it! 
+This NPM package that is used for `Python`, generates random sentences. Check out the code description below on how to use it! 
 
 # INSTALL
 ```
@@ -16,9 +16,9 @@ $ pip3 install rantence
 
 # USAGE
 ```js
-const rantence = require('rantence') // Gets module
+import rantence // Gets module
 
-rantence() // Logs random sentence
+rantence.rt() // Prints 1 out of 3 random sentences
 ```
 
 ![Logo](https://cdn.discordapp.com/attachments/743107684676534273/743626048171671683/Rnadomsneet.jpg)
