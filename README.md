@@ -16,9 +16,9 @@ $ pip3 install rantence
 
 # USAGE
 ```python
-import rantence // Gets module
+import rantence #Gets module
 
-rantence.rt() // Prints 1 out of 3 random sentences
+rantence.rt() #Prints 1 out of 3 random sentences
 ```
 
 ![Logo](https://cdn.discordapp.com/attachments/743107684676534273/743626048171671683/Rnadomsneet.jpg)
